@@ -23,6 +23,8 @@ export function Homepage() {
 
   return (
     <>
+      <title>Weather Forecaster</title>
+
       <Header onSearch={handleSearch} />
 
       <div style={{ paddingTop: "80px", padding: "80px 20px 20px" }}>
