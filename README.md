@@ -6,7 +6,7 @@ A JavaScript web app that fetches and displays current weather and forecasts for
 
 <img width="1915" height="1041" alt="image" src="https://github.com/user-attachments/assets/f40157a0-3f05-4cd9-9bc7-3d7138b8d12b" />
 
-**Live demo:** [weather-forecaster.vercel.app](https://weather-forecaster.vercel.app)
+**Live demo:** [weather-forecast-project-zeta.vercel.app](https://weather-forecast-project-zeta.vercel.app)
 ## What it does
 
 - Lets the user type in a city and see current weather.
